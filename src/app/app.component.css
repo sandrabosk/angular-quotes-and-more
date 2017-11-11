@@ -1,0 +1,15 @@
+ul li{
+  display: inline;
+}
+
+.menu a{
+  text-decoration: none;
+  padding: 10px;
+  margin-left: 5px;
+  border: 1px #f6f6f6 solid;
+  box-shadow: 3px 3px 3px 3px #ccc;
+}
+.menu {
+  text-align: right;
+  width: auto;
+}
